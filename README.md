@@ -18,3 +18,11 @@ Scoring & Difficulty:
 Implementation:
 <p> The snake's body as well as the food and the snake's head, are all using 2 vectors, one for X coordinate (length) and one for Y coodinate(height). (the hole algorithm uses the visualisation of a xOy system). FoodX and foodY are random generated values, the head suffers modifications either on X coordinate (left/right move), either on Y coordinate (up/down move) and also can pass at the beginning/end of the current line when the snake has reached the edge of the matrix. Then, the body suffers modifications from back to the  head.</p>
  
+Functions used:
+* 
+* 
+* 
+* 
+* 
+*
+* 
