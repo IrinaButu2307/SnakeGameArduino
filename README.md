@@ -9,7 +9,7 @@ Components used:
 * Resistance 220 Ohm
 
 How to play:
-    The game begins by pressing the button on the bread board. The goal is to reach a score as high as possile. In order to do that, you have to eat(touch) the food (the dots that are lightened along your way on the matrix). You can choose to go up, down, left or right, using the joystick. If you don't change the snake's direction, it will continue to move in the last direction you've chosen. Don't forget that with every bite taken, the snake's speed increases, making your moves sometimes tricky. The game ends when the snake bites its body. Don't worry, you are entitled for a revenge, so press again the button on the bread board to replay. :)
+The game begins by pressing the button on the bread board. The goal is to reach a score as high as possile. In order to do that, you have to eat(touch) the food (the dots that are lightened along your way on the matrix). You can choose to go up, down, left or right, using the joystick. If you don't change the snake's direction, it will continue to move in the last direction you've chosen. Don't forget that with every bite taken, the snake's speed increases, making your moves sometimes tricky. The game ends when the snake bites its body. Don't worry, you are entitled for a revenge, so press again the button on the bread board to replay. :)
 
 Scoring & Difficulty:
 * the score increseas by 10 when the snakes bites the food
