@@ -8,7 +8,7 @@ Components used:
 * 2 X Bread Board
 * Resistance 220 Ohm
 
-![screenshot_20181213-133213_video player](https://user-images.githubusercontent.com/32790344/49936656-35e18600-fedd-11e8-963b-c094e1c5f5a1.jpg)
+![screenshot_20181213-133213_video player](https://user-images.githubusercontent.com/32790344/49936656-35e18600-fedd-11e8-963b-c094e1c5f5a1.jpg =250x250)
 
 How to play:
 
