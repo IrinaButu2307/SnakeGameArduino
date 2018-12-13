@@ -10,7 +10,7 @@ Components used:
 
 
 <img src="https://user-images.githubusercontent.com/32790344/49936979-0d0dc080-fede-11e8-88a3-2aab0770ad10.jpg" width="400" height="500">
-<a href="https://drive.google.com/open?id=1JDCKEbyJBDQkuoOCiji926Nzxp_8D0Mz">Check this video</a>
+<a href="https://drive.google.com/open?id=1JDCKEbyJBDQkuoOCiji926Nzxp_8D0Mz">Here you can see the actual game in action</a>
 
 How to play:
 
