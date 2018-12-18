@@ -21,9 +21,9 @@ Scoring & Difficulty:
 * the difficulty increases at every bite; the delay decreases between lightening and switching off the snake's body on the matrix
 
 Implementation:
-<p> The snake's body as well as the food and the snake's head, are all using 2 vectors, one for X coordinate (length) and one for Y coodinate(height). (the hole algorithm uses the visualisation of a xOy system). FoodX and foodY are random generated values, the head suffers modifications either on X coordinate (left/right move), either on Y coordinate (up/down move) and also can pass at the beginning/end of the current line when the snake has reached the edge of the matrix. Then, the body suffers modifications from back to the  head.</p>
+<p> The snake's body as well as the food and the snake's head, are all using 2 vectors, one for rows'values and one for columns'values; ({row[0], col[0]} -> the head position on the matrix). FoodRow and foodCol are random generated values, the head suffers modifications either on row values (left/right move), either on columns (up/down move) and also can pass at the beginning/end of the current line when the snake has reached the edge of the matrix. Then, the body suffers modifications from back to the beginning.</p>
 
 At every move (if gameOn == true) , there will be calls for the following functions: 
 1. checkFood()-to see if the snake has reached the food
-2. (yes)-foodFound()- to generate randomly new food -> difficuly increases -> growSnake()
-3. snakeDies() (snake bites itself) -> gameLost() & gameReset()-> gameOn = false -> need the button to be pressed to REPLAY
+2. (yes)-> call foodFound() - to generate randomly new food -> difficuly increases -> growSnake()
+3. snakeDies() -> calls both gameLost() & gameReset()-> gameOn = false -> need the button to be pressed to REPLAY
