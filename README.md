@@ -6,8 +6,8 @@ Components used:
 * Joystick
 * Connecting wires (mother-mother, father-mother)
 * 2 X Bread Board
-* Resistance 220 Ohm
-* Resistance 10k
+* Resistor 220 Ohm
+* Resistor 10k Ohm
 
 
 <img src="https://user-images.githubusercontent.com/32790344/49936979-0d0dc080-fede-11e8-88a3-2aab0770ad10.jpg" width="400" height="500">
